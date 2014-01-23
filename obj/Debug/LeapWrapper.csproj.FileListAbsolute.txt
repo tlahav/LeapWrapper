@@ -1,0 +1,6 @@
+C:\Users\s3v.DSONE\Documents\Visual Studio 2012\Projects\LeapWrapper\bin\Debug\LeapWrapper.dll
+C:\Users\s3v.DSONE\Documents\Visual Studio 2012\Projects\LeapWrapper\bin\Debug\LeapWrapper.pdb
+C:\Users\s3v.DSONE\Documents\Visual Studio 2012\Projects\LeapWrapper\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\s3v.DSONE\Documents\Visual Studio 2012\Projects\LeapWrapper\obj\Debug\LeapWrapper.csprojResolveAssemblyReference.cache
+C:\Users\s3v.DSONE\Documents\Visual Studio 2012\Projects\LeapWrapper\obj\Debug\LeapWrapper.dll
+C:\Users\s3v.DSONE\Documents\Visual Studio 2012\Projects\LeapWrapper\obj\Debug\LeapWrapper.pdb
